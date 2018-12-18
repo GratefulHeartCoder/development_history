@@ -2,7 +2,7 @@
 gratefulheartcoder的发展历程
 
 # repositories_add
-|No|date|time|follower_name|comment|
+|No|date|time|repositories_name|comment|
 |:--|--|--|:--|:--|
 |1|2018-12-05|23:06|PowerShell|Windows 10上默认的,有潜力|
 |2|2018-12-08|23:16|bootstrap|前端框架|
