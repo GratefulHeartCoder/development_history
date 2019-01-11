@@ -19,3 +19,4 @@ gratefulheartcoder的发展历程
 |13|2019-01-06|00:03|spark|大规模数据处理|
 |14|2019-01-06|00:09|opencv|图形图像分析|
 |15|2019-01-07|20:06|scikit-learn|Python-机器学习|
+|16|2019-01-11|23:03|TypeScript|JavaScript的超集|
