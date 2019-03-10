@@ -36,4 +36,5 @@ gratefulheartcoder的发展历程
 |14|2019-02-05|23:05|git|分布式版本管理系统|
 |15|2019-02-05|23:17|selenium|基于网络应用的测试框架|
 |16|2019-02-09|22:37|flask|轻量级 Web 应用框架|
-|17|2019-03-09|10:44|calculator|Microsoft开源的Windows Calculator|
+|17|2019-03-09|10:44|calculator|Microsoft的Windows Calculator|
+|18|2019-03-10|19:58|intellij-community|JetBrains的IDEA Community|
