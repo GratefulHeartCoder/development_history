@@ -39,3 +39,4 @@ gratefulheartcoder的发展历程
 |17|2019-03-09|10:44|calculator|Microsoft的Windows Calculator|
 |18|2019-03-10|19:58|intellij-community|JetBrains的IDEA Community|
 |19|2019-03-10|20:09|kotlin|JetBrains,静态编程语言|
+|20|2019-03-30|21:04|996.ICU|工作 996,生病 ICU.|
