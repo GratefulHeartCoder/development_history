@@ -40,3 +40,4 @@ gratefulheartcoder的发展历程
 |18|2019-03-10|19:58|intellij-community|JetBrains的IDEA Community|
 |19|2019-03-10|20:09|kotlin|JetBrains,静态编程语言|
 |20|2019-03-30|21:04|996.ICU|工作 996,生病 ICU.|
+|21|2019-04-11|21:04|rust|优雅,并发,安全|
